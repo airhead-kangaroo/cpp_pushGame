@@ -1,0 +1,13 @@
+﻿  Luggage.cpp
+  Main.cpp
+  Map.cpp
+  Piece.cpp
+  Player.cpp
+  Stage.cpp
+Stage.cpp(14): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+Stage.cpp(14): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+  コード生成しています。
+c:\dev\push002\stage.cpp(135): warning C4715: 'Stage::luggageMove': 値を返さないコントロール パスがあります。
+  All 176 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Push002.vcxproj -> C:\dev\Push002\Release\Push002.exe

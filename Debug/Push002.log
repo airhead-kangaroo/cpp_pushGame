@@ -1,0 +1,12 @@
+﻿  Stage.cpp
+d:\visualstudio\push002\stage.cpp(14): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+d:\visualstudio\push002\stage.cpp(14): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+  Player.cpp
+  Piece.cpp
+  Map.cpp
+  Main.cpp
+  Luggage.cpp
+  コードを生成中...
+d:\visualstudio\push002\stage.cpp(135): warning C4715: 'Stage::luggageMove': 値を返さないコントロール パスがあります。
+  Push002.vcxproj -> D:\VisualStudio\Push002\Debug\Push002.exe
+  Push002.vcxproj -> D:\VisualStudio\Push002\Debug\Push002.pdb (Partial PDB)
